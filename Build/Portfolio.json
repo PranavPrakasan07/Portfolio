@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "PortfolioWebsite",
+"productVersion": "0.1",
+"dataUrl": "Portfolio.data.unityweb",
+"wasmCodeUrl": "Portfolio.wasm.code.unityweb",
+"wasmFrameworkUrl": "Portfolio.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.12f1"
+}
